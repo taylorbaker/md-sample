@@ -18,7 +18,7 @@ Jump to Boss:
 - [Rygelon](#rygelon)
 - [Zovaal](#zovaal)
 
-Boss notes initially populated with recap of guides over at [Ready Check Pull][2], which are great resources for quick overviews of each fight.
+Boss notes initially populated with recap of guides over at [Ready Check Pull][2], which are great resources for quick overviews of each fight. Also, [MythicTrap][3] is an amazing resource that is heavily used in the later bosses of this guide.
 
 
 ## <a name="vigilant-guardian"></a> Vigilant Guardian
@@ -178,6 +178,50 @@ Boss has seen significant changes since testing, the following notes are subject
 
 ## <a name="anduin-wrynn"></a> Anduin Wrynn
 
+### Pre-pull
+
+- consider marking Grim Reflections (p2) add locations for cc or interrupt coordination
+- split raid into two Kingsmourne groups (seems like an even split between all four roles will work, consider magic dispels for Heroic)
+
+### Phase One
+
+- Blasphemy will mark half the raid with "light" bomb and other half with "dark" bomb. Pre-spread and have light move to dark to remove debuffs. Before 8s timer expires give priority movement to remaining pairs. Splodey splode if those debuffed move over anyone other than someone of the opposite buff
+- Befouled Barrier places a healing absorption zone. Healers work through this shield by healing those standing within the zone. Stack in zone when full hp. Shrink the barrier to its smallest size before 25s cast completes 
+- Anduin throws projectiles at several random players' locations. The projectile goes back and forth. Red arrows are visible on the ground to highlight the direction (from Anduin)
+- stand in Kingsmourne Hungers if it is your group's turn to be sent to Soul Phase
+- stackable, raidwide DoT (Hopebreaker) continually stacks during p1
+- tank swap is Dark Zeal, where Anduin gains a stackable 7% haste on hit on the same player. Tank swap regularly to reset
+
+### Soul Phase
+
+- occurs in parallel with p1/p2
+- have 35s to deal with 3 types of adds to restore Anduin's Willpower and transition to p2
+- big add is tanked, smaller adds will rp walk to center, but are prone to all cc
+- healing adds need to be healed. On heroic, 100% heal reduction (magic) debuff needs to be dispelled prior to healing
+- during p2, do not fill Anduin's Willpower before "upstairs" adds are killed
+
+### Intermissions
+
+- occurs between each main phase
+- this phase is a dps race. Burn Remnant of a Fallen King (Arthas) while also cleaving down other mobs
+- on Heroic, an extra mob spawns. The Monstrous Soul must be dealt with when it's low HP (believe 35%)
+- stacking, raidwide DoT (Remorseless Winter) stacks during interlude similar to Hopebreaker from main phases
+- tank swap on Soul Reaper applications
+- second intermission will spawn walls of marching adds to be avoided
+
+### Phase Two
+
+- all p1 mechanics apply except Blasphemy is replaced with Grim Reflections. Here, several adds appear and need to either be continually interrupted or cc'd to be burned in turn
+- on Heroic, Wicked Star projectiles will that hit Grim Reflection adds will make them interrupt/cc immune. Avoid adds when targeted
+- when boss enters last intermission, remaining Grim Reflection adds gain 5x health and become cc immune. Ensure all upstars adds are killed before downstairs fills Anduin's Willpower
+
+### Phase Three
+
+- relatively unique compared to rest of fight
+- Anduin summons a light zone at center of room at p3 start. Bombs will be frequently applied that will need to be removed before their timer elapses by moving to light zone
+- players entering the light zone lose their bomb, but slightly shrink the zone. Bumping into players with the debuff triggers the explosion
+- believe there is another stacking, raidwide dot in this phase resulting in a burn that ends when Anduin reaches 0 HP
+
 
 ## <a name="lords-of-dread"></a> Lords of Dread
 
@@ -190,6 +234,7 @@ Boss has seen significant changes since testing, the following notes are subject
 
 [1]: https://ptr.wowhead.com/guides/sepulcher-of-the-first-ones-raid-overview-strategy-boss-guides-rewards
 [2]: https://www.youtube.com/watch?v=Sgbq8aKp8is&list=PLhx6nABtx9XPBWi8MYk6KfaTfPzMlFMED
+[3]: https://mythictrap.com/sepulcher/anduin
 
 
 <!-- styling for alpha in images -->
